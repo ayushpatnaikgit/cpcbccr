@@ -7,7 +7,7 @@ All the code exists in the code folder. There are three python scripts, they all
 1. setup_pull.py # you need to setup the dates for which you need to get data. After that run this script. This sets up all the requests that needs to be called to pull the data.
 2. pull.py # call this to actually pull the data setup in the previous script. Data received is JSON
 3. parse.py # this actually parses the data got in step 2 and creates the table
-
+4. stations.py updates the list of stations
 
 
 
